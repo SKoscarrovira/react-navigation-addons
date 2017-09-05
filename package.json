@@ -1,6 +1,6 @@
 {
   "name": "react-navigation-addons",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Addons for React Navigation",
   "main": "src/index.js",
   "author": "Satyajit Sahoo <satyajit.happy@gmail.com>",
